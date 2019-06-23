@@ -1,0 +1,36 @@
+body
+{
+		background: url(bckgnd.jpg) no-repeat fixed center;
+	background-size: cover;
+}
+
+img
+{
+	width:450px;
+	height:300px;
+	margin: 10px;
+	transition: all;
+	box-shadow: 9px 9px 10px;
+	}
+	img:hover
+	{
+		transform: scale(1.1);
+
+	}
+
+
+
+h1
+{
+font-size: 65px;
+font-family: italic;
+box-shadow: 7px 7px 8px;
+
+
+}
+h2
+{
+	font-size: 50px;
+	font-family: bold;
+	 
+}

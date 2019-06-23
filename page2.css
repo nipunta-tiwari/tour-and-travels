@@ -1,0 +1,35 @@
+body
+{
+	background: url(gujarat back.jpg) no-repeat fixed center;
+	background-size: cover;
+	
+}
+img
+{
+	width:450px;
+	height:300px;
+	margin: 10px;
+	transition: all;
+	box-shadow: 9px 9px 10px;
+	}
+	img:hover
+	{
+		transform: scale(1.1);
+
+	}
+
+
+
+h1
+{
+font-size: 50px;
+font-family: strong;
+box-shadow: 7px 7px 8px;
+font color: black;
+
+
+}
+h2
+{
+	font-size: 30px;
+}

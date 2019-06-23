@@ -1,0 +1,32 @@
+body
+{
+		background: url(ukbc.jpg) no-repeat fixed center;
+	background-size: cover;
+}
+
+
+img
+{
+	width:450px;
+	height:300px;
+	margin: 15px;
+	transition: all;
+	box-shadow: 4px 4px 5px black;
+	}
+	img:hover
+	{
+		transform: scale(1.1);
+
+	}
+	h1
+	{
+		font-size: 50px;
+		font-family: bold;
+		box-shadow: 7px 7px 8px;
+
+	}
+	h2
+	{
+		font-family: bold;
+		font-size: 40px;
+	}

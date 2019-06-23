@@ -1,0 +1,39 @@
+body
+{
+	background: url(background1.jpg) no-repeat fixed center;
+	background-size: cover;
+	
+
+}
+h1
+{
+text-align: center;
+font-size: 350%;
+font-family: "Italic";
+color: black;
+}
+form
+{
+    text-align: center;
+	justify-content: center;
+	margin-top: 10px;
+	position: relative;
+	margin: 0 auto 100px;
+	width: 360px;
+	background-color: grey;
+	opacity: 0.6;
+	padding: 50px 0px;
+
+
+
+}
+button
+{
+	margin: 3.8px;
+	margin-top: 8px;
+
+}
+h2{
+	font-size: 50px;
+	text-align: center;
+}
